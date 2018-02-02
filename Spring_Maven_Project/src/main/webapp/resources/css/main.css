@@ -1,0 +1,56 @@
+body{
+    background-color: #444444;
+}
+#main{
+    text-align: center;
+    background-color: #777777;
+}
+.delete{
+    color: orangered;
+}
+.edit{
+    color: limegreen;
+}
+a:hover{
+    cursor: pointer;
+}
+.loginForm{
+    width: 20%;
+
+}
+.login{
+    background: #3c3f41;
+}
+footer{
+    color: #80aabf;
+}
+.well{
+    background: #818486;
+}
+#searchForm{
+    height: 350px;
+}
+
+#details{
+    color: #2dcfca;
+}
+
+#details:hover{
+    color: #fefffe;
+
+}
+a:hover{
+    text-decoration: none;
+}
+#vehicleForm{
+    background-color: #777777;
+    border-radius: 5px;
+}
+#vehicleFormInputs{
+    width: 35%;
+    padding: 20px;
+}
+#error{
+    color: #ed5943;
+
+}
